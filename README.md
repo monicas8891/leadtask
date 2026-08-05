@@ -211,6 +211,9 @@ Backend validation includes:
 
 ## 📸 Screenshots
 <img width="919" height="400" alt="Screenshot 2026-08-05 211228" src="https://github.com/user-attachments/assets/9bc2108d-6799-4670-8651-245e2f8a6663" />
+<img width="923" height="242" alt="Screenshot 2026-08-05 211245" src="https://github.com/user-attachments/assets/8aab26be-7780-4664-b28c-0f9d2fc300a2" />
+<img width="932" height="447" alt="Screenshot 2026-08-05 211357" src="https://github.com/user-attachments/assets/13a95b84-04cd-44b8-9c28-8b93aa0bf2e1" />
+
 
 
 
