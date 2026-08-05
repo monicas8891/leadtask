@@ -210,16 +210,9 @@ Backend validation includes:
 ---
 
 ## 📸 Screenshots
+<img width="919" height="400" alt="Screenshot 2026-08-05 211228" src="https://github.com/user-attachments/assets/9bc2108d-6799-4670-8651-245e2f8a6663" />
 
-Add screenshots here:
 
-- Home Page
-- Lead Submission Form
-- Admin Login
-- Dashboard
-- Search Results
-
----
 
 ## 🌐 Deployment
 
